@@ -163,7 +163,7 @@ Feature importance dashboard
 
 👨‍💻 Author
 
-Asta (V Karthik)
+V Karthik
 Data Analyst | Machine Learning | Healthcare Analytics
 
 ⭐ If you found this useful
